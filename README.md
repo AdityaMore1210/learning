@@ -1,1 +1,5 @@
 # learning
+
+hi 
+hello
+bye
